@@ -10,3 +10,6 @@ def create_project_hash
   kickstarter.css(".project")
   binding.pry
 end
+
+
+create_project_hash
